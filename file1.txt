@@ -1,1 +1,6 @@
-
+using System;
+namespace Program{
+class file1{
+   Console.WriteLine("Hello World");
+}
+}
